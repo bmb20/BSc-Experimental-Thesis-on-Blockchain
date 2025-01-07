@@ -5,7 +5,8 @@ The study is divided into two phases: data collection and analysis. The first ph
 
 This research highlights the evolving role of decentralized social media in addressing challenges such as privacy, equitable resource distribution, and freedom of thought. BOSMs like Yup not only empower users to monetize their social interactions but also provide opportunities to engage with broader financial ecosystems, including trading and investment activities.
 
-Conclusions and Future Work
+Conclusions and Future Work:
+
 Social media have become essential in modern communication but are often associated with privacy and freedom concerns. Decentralized platforms based on blockchain, such as Yup, represent a new generation of social media that offers solutions for better privacy management and economic fairness. However, the increasing economic focus within these platforms raises questions about their social objectives.
 
 Key findings include:
